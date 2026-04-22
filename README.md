@@ -1,6 +1,5 @@
 # 🌌 Hybrid CNN-GRU Model for Space Weather Forecasting (db/dt)
-**University of Sheffield — BEng Computer Systems Engineering**
-**Supervisor: Professor Michael Balikhin**
+
 
 ## Overview
 A hybrid **CNN-GRU** deep learning model for one-minute-ahead forecasting of the geomagnetic field rate of change **(db/dt)**. Rapid db/dt variations induce geomagnetically induced currents (GICs) in power grids and pipelines — accurate short-horizon forecasts are critical for infrastructure protection.
